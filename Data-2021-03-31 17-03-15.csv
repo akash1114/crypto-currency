@@ -1,0 +1,11 @@
+Name,Coin Symbol(ticker),Market Cap(In Millions),Current Price,Percentage Change on ATH,exchange_count
+"=HYPERLINK(""https://www.coingecko.com/en/coins/cyberfi"",""CyberFi"")",cfi,99.62,67.1,11.55,1
+"=HYPERLINK(""https://www.coingecko.com/en/coins/bounce"",""Bounce"")",auction,91.13,39.97,11.8,3
+"=HYPERLINK(""https://www.coingecko.com/en/coins/dmarket"",""DMarket"")",dmt,86.29,1.7,12.37,0
+"=HYPERLINK(""https://www.coingecko.com/en/coins/dsla-protocol"",""DSLA Protocol"")",dsla,83.57,0.01,13.94,3
+"=HYPERLINK(""https://www.coingecko.com/en/coins/pnetwork"",""pNetwork"")",pnt,89.32,2.35,15.16,6
+"=HYPERLINK(""https://www.coingecko.com/en/coins/mossland"",""Mossland"")",moc,82.47,0.3,16.51,0
+"=HYPERLINK(""https://www.coingecko.com/en/coins/ferrum-network"",""Ferrum Network"")",frm,84.07,0.73,17.23,2
+"=HYPERLINK(""https://www.coingecko.com/en/coins/duckdaodime"",""DuckDaoDime"")",ddim,86.88,83.65,18.99,1
+"=HYPERLINK(""https://www.coingecko.com/en/coins/mobiecoin"",""MobieCoin"")",mbx,79.41,0.04,19.56,0
+"=HYPERLINK(""https://www.coingecko.com/en/coins/meme"",""Meme"")",meme,80.72,3194.33,19.63,1

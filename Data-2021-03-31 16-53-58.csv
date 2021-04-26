@@ -1,0 +1,11 @@
+Name,Coin Symbol(ticker),Market Cap(In Millions),Current Price,Percentage Change on ATH,ids,exchange_count
+"=HYPERLINK(""https://www.coingecko.com/en/coins/cyberfi"",""CyberFi"")",cfi,99.5,66.24,12.68,cyberfi,1
+"=HYPERLINK(""https://www.coingecko.com/en/coins/bounce"",""Bounce"")",auction,90.21,39.54,12.75,auction,3
+"=HYPERLINK(""https://www.coingecko.com/en/coins/pnetwork"",""pNetwork"")",pnt,89.12,2.35,15.16,pnetwork,6
+"=HYPERLINK(""https://www.coingecko.com/en/coins/duckdaodime"",""DuckDaoDime"")",ddim,86.6,83.86,18.79,duckdaodime,1
+"=HYPERLINK(""https://www.coingecko.com/en/coins/dmarket"",""DMarket"")",dmt,86.29,1.69,12.89,dmarket,0
+"=HYPERLINK(""https://www.coingecko.com/en/coins/ferrum-network"",""Ferrum Network"")",frm,84.07,0.73,17.21,ferrum-network,2
+"=HYPERLINK(""https://www.coingecko.com/en/coins/dsla-protocol"",""DSLA Protocol"")",dsla,83.57,0.01,14.54,stacktical,3
+"=HYPERLINK(""https://www.coingecko.com/en/coins/mossland"",""Mossland"")",moc,82.47,0.3,16.99,mossland,0
+"=HYPERLINK(""https://www.coingecko.com/en/coins/mobiecoin"",""MobieCoin"")",mbx,79.36,0.04,19.59,mobiecoin,0
+"=HYPERLINK(""https://www.coingecko.com/en/coins/hxro"",""Hxro"")",hxro,75.38,0.3,16.39,hxro,1
