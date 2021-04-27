@@ -106,11 +106,11 @@ def exchange_count(df):
     ids = list(df['ids'])
     exchange_details = exchange_deta()
     for exchange in exchange_details:
-        if exchange['target_coin_id'] in ids:
-            if exchange['target_coin_id'] in exchange_count.keys():
-                exchange_count[exchange['target_coin_id']] += 1
+        if exchange['coin_id'] in ids:
+            if exchange['coin_id'] in exchange_count.keys():
+                exchange_count[exchange['coin_id']] += 1
             else:
-                exchange_count[exchange['target_coin_id']] = 1
+                exchange_count[exchange['coin_id']] = 1
     exchange_list = []
     for id in list(df['ids']):
         if id in exchange_count.keys():
